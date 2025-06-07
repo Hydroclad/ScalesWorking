@@ -1,0 +1,38 @@
+
+state={
+	id=110
+	name="STATE_110"
+	manpower = 8255770
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = EUE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			dockyard = 1
+			1526 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = EUE
+	}
+
+	provinces={
+		1516 1517 1518 1519 1520 1521 1522 1523 1524 1525 1526 1527 1528 1529 1530 1531 1532 1533 1534 1535 1536 1537 1538 1539 1540 1541 1542 1543 1544 1545 1546 1547 1548 1549 1550 1551 1552 
+	}
+	local_supplies=0.0 
+}

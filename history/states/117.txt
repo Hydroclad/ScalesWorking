@@ -1,0 +1,35 @@
+
+state={
+	id=117
+	name="STATE_117"
+	manpower = 2720569
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SBA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SBA
+	}
+
+	provinces={
+		1650 1651 1652 1653 1654 1655 1656 1657 1658 1659 1660 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=801
+	name="STATE_801"
+	manpower = 5799353
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		11289 11290 11291 11292 11293 11294 11295 11296 11297 11298 11299 11300 11301 11302 11303 11304 11305 11306 11307 11308 11309 11310 11311 11312 11313 
+	}
+	local_supplies=0.0 
+}

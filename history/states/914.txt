@@ -1,0 +1,35 @@
+
+state={
+	id=914
+	name="STATE_914"
+	manpower = 3041689
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SPU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SPU
+	}
+
+	provinces={
+		12974 12975 12976 12977 12978 12979 12980 12981 12982 12983 12984 12985 12986 12987 
+	}
+	local_supplies=0.0 
+}

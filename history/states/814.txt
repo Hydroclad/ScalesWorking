@@ -1,0 +1,38 @@
+
+state={
+	id=814
+	name="STATE_814"
+	manpower = 2618685
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ESP
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			11510 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ESP
+	}
+
+	provinces={
+		11508 11509 11510 11511 11512 11513 11514 11515 11516 11517 11518 11519 11520 
+	}
+	local_supplies=0.0 
+}

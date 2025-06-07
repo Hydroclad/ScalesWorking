@@ -1,0 +1,35 @@
+
+state={
+	id=1056
+	name="STATE_1056"
+	manpower = 6019343
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = BLI
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = BLI
+	}
+
+	provinces={
+		15241 15242 15243 15244 15245 15246 15247 15248 15249 15250 15251 15252 15253 15254 15255 15256 15257 15258 15259 15260 15261 15262 15263 15264 15265 15266 
+	}
+	local_supplies=0.0 
+}

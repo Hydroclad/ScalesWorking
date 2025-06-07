@@ -1,0 +1,38 @@
+
+state={
+	id=421
+	name="STATE_421"
+	manpower = 2679833
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=2
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			5898 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		5891 5892 5893 5894 5895 5896 5897 5898 5899 5900 
+	}
+	local_supplies=0.0 
+}

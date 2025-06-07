@@ -1,0 +1,38 @@
+
+state={
+	id=551
+	name="STATE_551"
+	manpower = 1352464
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = HIO
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			7873 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HIO
+	}
+
+	provinces={
+		7870 7871 7872 7873 7874 
+	}
+	local_supplies=0.0 
+}

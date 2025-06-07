@@ -1,0 +1,38 @@
+
+state={
+	id=556
+	name="STATE_556"
+	manpower = 7124285
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UER
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 1
+			7898 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UER
+	}
+
+	provinces={
+		7880 7881 7882 7883 7884 7885 7886 7887 7888 7889 7890 7891 7892 7893 7894 7895 7896 7897 7898 7899 7900 7901 7902 7903 7904 7905 7906 7907 7908 7909 7910 
+	}
+	local_supplies=0.0 
+}

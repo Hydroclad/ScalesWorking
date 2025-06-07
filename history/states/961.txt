@@ -1,0 +1,38 @@
+
+state={
+	id=961
+	name="STATE_961"
+	manpower = 179253
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = OET
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			13677 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OET
+	}
+
+	provinces={
+		13677 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,6 @@
+
+
+graphical_culture = _gfx
+graphical_culture_2d = _2d  
+
+color = { 255 255 255 }

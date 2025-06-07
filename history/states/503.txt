@@ -1,0 +1,38 @@
+
+state={
+	id=503
+	name="STATE_503"
+	manpower = 2201855
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ZIG
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			7187 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ZIG
+	}
+
+	provinces={
+		7179 7180 7181 7182 7183 7184 7185 7186 7187 7188 
+	}
+	local_supplies=0.0 
+}

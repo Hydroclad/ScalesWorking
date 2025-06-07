@@ -1,0 +1,38 @@
+
+state={
+	id=977
+	name="STATE_977"
+	manpower = 2780533
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SPO
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			14023 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SPO
+	}
+
+	provinces={
+		14012 14013 14014 14015 14016 14017 14018 14019 14020 14021 14022 14023 
+	}
+	local_supplies=0.0 
+}

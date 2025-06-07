@@ -1,0 +1,38 @@
+
+state={
+	id=480
+	name="STATE_480"
+	manpower = 631833
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ONG
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			6918 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ONG
+	}
+
+	provinces={
+		6917 6918 
+	}
+	local_supplies=0.0 
+}

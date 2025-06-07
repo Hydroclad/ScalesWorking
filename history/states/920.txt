@@ -1,0 +1,38 @@
+
+state={
+	id=920
+	name="STATE_920"
+	manpower = 7631697
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 3
+			
+			13095 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		13078 13079 13080 13081 13082 13083 13084 13085 13086 13087 13088 13089 13090 13091 13092 13093 13094 13095 13096 13097 13098 13099 13100 13101 13102 13103 13104 13105 13106 13107 13108 13109 13110 13111 
+	}
+	local_supplies=0.0 
+}

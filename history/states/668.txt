@@ -1,0 +1,38 @@
+
+state={
+	id=668
+	name="STATE_668"
+	manpower = 2371905
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = AUR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			9464 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AUR
+	}
+
+	provinces={
+		9455 9456 9457 9458 9459 9460 9461 9462 9463 9464 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=968
+	name="STATE_968"
+	manpower = 5617190
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UER
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 1
+			13908 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UER
+	}
+
+	provinces={
+		13904 13905 13906 13907 13908 13909 13910 13911 13912 13913 13914 13915 13916 13917 13918 13919 13920 13921 13922 13923 13924 13925 13926 13927 13928 
+	}
+	local_supplies=0.0 
+}

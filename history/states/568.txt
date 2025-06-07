@@ -1,0 +1,38 @@
+
+state={
+	id=568
+	name="STATE_568"
+	manpower = 1086849
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=1
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = HWU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			8073 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HWU
+	}
+
+	provinces={
+		8073 8074 8075 8076 8077 
+	}
+	local_supplies=0.0 
+}

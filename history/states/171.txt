@@ -1,0 +1,35 @@
+
+state={
+	id=171
+	name="STATE_171"
+	manpower = 3252644
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CAA
+	}
+
+	provinces={
+		2508 2509 2510 2511 2512 2513 2514 2515 2516 2517 2518 2519 2520 
+	}
+	local_supplies=0.0 
+}

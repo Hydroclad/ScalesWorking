@@ -1,0 +1,38 @@
+
+state={
+	id=569
+	name="STATE_569"
+	manpower = 1356062
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = HUO
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			8082 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HUO
+	}
+
+	provinces={
+		8078 8079 8080 8081 8082 
+	}
+	local_supplies=0.0 
+}

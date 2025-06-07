@@ -1,0 +1,35 @@
+
+state={
+	id=861
+	name="STATE_861"
+	manpower = 4322313
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=4
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IEB
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 2
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = IEB
+	}
+
+	provinces={
+		12118 12119 12120 12121 12122 12123 12124 12125 12126 12127 12128 12129 12130 12131 12132 12133 12134 12135 
+	}
+	local_supplies=0.0 
+}

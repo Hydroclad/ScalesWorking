@@ -1,0 +1,38 @@
+
+state={
+	id=150
+	name="STATE_150"
+	manpower = 4298506
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = AUR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			2142 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AUR
+	}
+
+	provinces={
+		2127 2128 2129 2130 2131 2132 2133 2134 2135 2136 2137 2138 2139 2140 2141 2142 2143 2144 2145 
+	}
+	local_supplies=0.0 
+}

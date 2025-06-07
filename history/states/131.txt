@@ -1,0 +1,38 @@
+
+state={
+	id=131
+	name="STATE_131"
+	manpower = 4091553
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = ORT
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			1835 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ORT
+	}
+
+	provinces={
+		1821 1822 1823 1824 1825 1826 1827 1828 1829 1830 1831 1832 1833 1834 1835 1836 1837 1838 
+	}
+	local_supplies=0.0 
+}

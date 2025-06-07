@@ -1,0 +1,38 @@
+
+state={
+	id=681
+	name="STATE_681"
+	manpower = 3605584
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IAH
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			9637 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IAH
+	}
+
+	provinces={
+		9635 9636 9637 9638 9639 9640 9641 9642 9643 9644 9645 9646 9647 9648 9649 
+	}
+	local_supplies=0.0 
+}

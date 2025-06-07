@@ -1,0 +1,38 @@
+
+state={
+	id=585
+	name="STATE_585"
+	manpower = 5236430
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = RRI
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 2
+			industrial_complex = 0
+			
+			8326 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RRI
+	}
+
+	provinces={
+		8325 8326 8327 8328 8329 8330 8331 8332 8333 8334 8335 8336 8337 8338 8339 8340 8341 8342 8343 8344 8345 8346 
+	}
+	local_supplies=0.0 
+}

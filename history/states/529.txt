@@ -1,0 +1,35 @@
+
+state={
+	id=529
+	name="STATE_529"
+	manpower = 1398370
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IAH
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = IAH
+	}
+
+	provinces={
+		7566 7567 7568 7569 7570 7571 
+	}
+	local_supplies=0.0 
+}

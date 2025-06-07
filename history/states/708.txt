@@ -1,0 +1,38 @@
+
+state={
+	id=708
+	name="STATE_708"
+	manpower = 645334
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = YEG
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			9990 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = YEG
+	}
+
+	provinces={
+		9988 9989 9990 
+	}
+	local_supplies=0.0 
+}

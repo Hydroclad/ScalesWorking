@@ -1,0 +1,38 @@
+
+state={
+	id=754
+	name="STATE_754"
+	manpower = 3783413
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=7
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = RRI
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			10567 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RRI
+	}
+
+	provinces={
+		10566 10567 10568 10569 10570 10571 10572 10573 10574 10575 10576 10577 10578 10579 10580 10581 
+	}
+	local_supplies=0.0 
+}

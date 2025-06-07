@@ -1,0 +1,38 @@
+
+state={
+	id=744
+	name="STATE_744"
+	manpower = 4468355
+	
+	state_category = city
+	resources={
+		aluminium=2
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			10414 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		10414 10415 10416 10417 10418 10419 10420 10421 10422 10423 10424 10425 10426 10427 10428 10429 10430 10431 10432 10433 
+	}
+	local_supplies=0.0 
+}

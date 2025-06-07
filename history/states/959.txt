@@ -1,0 +1,35 @@
+
+state={
+	id=959
+	name="STATE_959"
+	manpower = 3716788
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=4
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = DRE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = DRE
+	}
+
+	provinces={
+		13650 13651 13652 13653 13654 13655 13656 13657 13658 13659 13660 13661 13662 13663 13664 13665 
+	}
+	local_supplies=0.0 
+}

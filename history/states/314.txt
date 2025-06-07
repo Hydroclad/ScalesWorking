@@ -1,0 +1,35 @@
+
+state={
+	id=314
+	name="STATE_314"
+	manpower = 3326546
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = OUG
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OUG
+	}
+
+	provinces={
+		4416 4417 4418 4419 4420 4421 4422 4423 4424 4425 4426 4427 4428 4429 4430 
+	}
+	local_supplies=0.0 
+}

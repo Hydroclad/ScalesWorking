@@ -1,0 +1,35 @@
+
+state={
+	id=1018
+	name="STATE_1018"
+	manpower = 948453
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UOK
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = UOK
+	}
+
+	provinces={
+		14637 14638 14639 14640 
+	}
+	local_supplies=0.0 
+}

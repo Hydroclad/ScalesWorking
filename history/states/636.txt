@@ -1,0 +1,38 @@
+
+state={
+	id=636
+	name="STATE_636"
+	manpower = 694151
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IOF
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			9100 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = EIC
+	}
+
+	provinces={
+		9099 9100 9101 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=711
+	name="STATE_711"
+	manpower = 3
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SBA
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			10032 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SBA
+	}
+
+	provinces={
+		10032 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=889
+	name="STATE_889"
+	manpower = 1852884
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=5
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			12553 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		12550 12551 12552 12553 12554 12555 12556 12557 
+	}
+	local_supplies=0.0 
+}

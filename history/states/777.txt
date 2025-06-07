@@ -1,0 +1,35 @@
+
+state={
+	id=777
+	name="STATE_777"
+	manpower = 1897969
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=3
+		oil=1
+		rubber=6
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		10928 10929 10930 10931 10932 10933 10934 10935 
+	}
+	local_supplies=0.0 
+}

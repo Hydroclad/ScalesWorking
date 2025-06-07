@@ -1,0 +1,38 @@
+
+state={
+	id=290
+	name="STATE_290"
+	manpower = 4552452
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ULD
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 2
+			industrial_complex = 0
+			
+			4133 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ULD
+	}
+
+	provinces={
+		4132 4133 4134 4135 4136 4137 4138 4139 4140 4141 4142 4143 4144 4145 4146 4147 4148 4149 4150 
+	}
+	local_supplies=0.0 
+}

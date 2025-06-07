@@ -1,0 +1,35 @@
+
+state={
+	id=381
+	name="STATE_381"
+	manpower = 1573001
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=3
+	}
+
+	history={
+		
+		owner = EUE
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = EUE
+	}
+
+	provinces={
+		5360 5361 5362 5363 5364 5365 5366 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=77
+	name="STATE_77"
+	manpower = 3370304
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = WIJ
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			1077 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = WIJ
+	}
+
+	provinces={
+		1067 1068 1069 1070 1071 1072 1073 1074 1075 1076 1077 1078 1079 1080 1081 
+	}
+	local_supplies=0.0 
+}

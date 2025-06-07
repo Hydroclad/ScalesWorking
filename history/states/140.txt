@@ -1,0 +1,38 @@
+
+state={
+	id=140
+	name="STATE_140"
+	manpower = 3688907
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			1993 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 
+	}
+	local_supplies=0.0 
+}

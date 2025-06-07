@@ -1,0 +1,35 @@
+
+state={
+	id=118
+	name="STATE_118"
+	manpower = 1769733
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		1661 1662 1663 1664 1665 1666 1667 1668 1669 
+	}
+	local_supplies=0.0 
+}

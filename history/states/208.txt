@@ -1,0 +1,38 @@
+
+state={
+	id=208
+	name="STATE_208"
+	manpower = 3109110
+	
+	state_category = town
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			3048 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		3040 3041 3042 3043 3044 3045 3046 3047 3048 3049 3050 3051 3052 3053 
+	}
+	local_supplies=0.0 
+}

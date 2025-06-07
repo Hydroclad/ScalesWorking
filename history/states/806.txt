@@ -1,0 +1,38 @@
+
+state={
+	id=806
+	name="STATE_806"
+	manpower = 8490067
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=7
+		oil=0
+		rubber=0
+		steel=3
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UER
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 2
+			11383 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UER
+	}
+
+	provinces={
+		11366 11367 11368 11369 11370 11371 11372 11373 11374 11375 11376 11377 11378 11379 11380 11381 11382 11383 11384 11385 11386 11387 11388 11389 11390 11391 11392 11393 11394 11395 11396 11397 11398 11399 11400 11401 11402 11403 11404 
+	}
+	local_supplies=0.0 
+}

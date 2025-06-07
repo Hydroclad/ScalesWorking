@@ -1,0 +1,35 @@
+
+state={
+	id=742
+	name="STATE_742"
+	manpower = 2474266
+	
+	state_category = rural
+	resources={
+		aluminium=2
+		chromium=5
+		oil=1
+		rubber=0
+		steel=3
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		10395 10396 10397 10398 10399 10400 10401 10402 10403 10404 10405 10406 
+	}
+	local_supplies=0.0 
+}

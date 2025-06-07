@@ -1,0 +1,38 @@
+
+state={
+	id=53
+	name="STATE_53"
+	manpower = 5452961
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			781 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		771 772 773 774 775 776 777 778 779 780 781 782 783 784 785 786 787 788 789 790 791 792 793 
+	}
+	local_supplies=0.0 
+}

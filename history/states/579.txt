@@ -1,0 +1,35 @@
+
+state={
+	id=579
+	name="STATE_579"
+	manpower = 2126145
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		8230 8231 8232 8233 8234 8235 8236 8237 
+	}
+	local_supplies=0.0 
+}

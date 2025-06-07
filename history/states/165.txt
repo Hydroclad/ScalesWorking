@@ -1,0 +1,35 @@
+
+state={
+	id=165
+	name="STATE_165"
+	manpower = 927981
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IOM
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = IOM
+	}
+
+	provinces={
+		2413 2414 2415 2416 
+	}
+	local_supplies=0.0 
+}

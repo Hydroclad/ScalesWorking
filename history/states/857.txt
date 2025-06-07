@@ -1,0 +1,38 @@
+
+state={
+	id=857
+	name="STATE_857"
+	manpower = 1871937
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=10
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = RRI
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			12059 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RRI
+	}
+
+	provinces={
+		12057 12058 12059 12060 12061 12062 12063 12064 12065 
+	}
+	local_supplies=0.0 
+}

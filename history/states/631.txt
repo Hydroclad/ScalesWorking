@@ -1,0 +1,38 @@
+
+state={
+	id=631
+	name="STATE_631"
+	manpower = 1594193
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = YEG
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			9035 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = YEG
+	}
+
+	provinces={
+		9035 9036 9037 9038 9039 9040 9041 
+	}
+	local_supplies=0.0 
+}

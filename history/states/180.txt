@@ -1,0 +1,35 @@
+
+state={
+	id=180
+	name="STATE_180"
+	manpower = 5120358
+	
+	state_category = large_city
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UER
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = UER
+	}
+
+	provinces={
+		2636 2637 2638 2639 2640 2641 2642 2643 2644 2645 2646 2647 2648 2649 2650 2651 2652 2653 2654 2655 2656 2657 2658 
+	}
+	local_supplies=0.0 
+}

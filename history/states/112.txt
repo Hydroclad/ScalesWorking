@@ -1,0 +1,38 @@
+
+state={
+	id=112
+	name="STATE_112"
+	manpower = 3667883
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=4
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = HWU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			1573 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HWU
+	}
+
+	provinces={
+		1569 1570 1571 1572 1573 1574 1575 1576 1577 1578 1579 1580 1581 1582 1583 1584 
+	}
+	local_supplies=0.0 
+}

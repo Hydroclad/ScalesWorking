@@ -1,0 +1,38 @@
+
+state={
+	id=195
+	name="STATE_195"
+	manpower = 4361642
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=2
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			2835 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		2830 2831 2832 2833 2834 2835 2836 2837 2838 2839 2840 2841 2842 2843 2844 2845 2846 2847 
+	}
+	local_supplies=0.0 
+}

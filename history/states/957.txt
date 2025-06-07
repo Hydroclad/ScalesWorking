@@ -1,0 +1,38 @@
+
+state={
+	id=957
+	name="STATE_957"
+	manpower = 4505879
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=2
+		oil=1
+		rubber=3
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = PHE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			13637 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PHE
+	}
+
+	provinces={
+		13620 13621 13622 13623 13624 13625 13626 13627 13628 13629 13630 13631 13632 13633 13634 13635 13636 13637 
+	}
+	local_supplies=0.0 
+}

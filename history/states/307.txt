@@ -1,0 +1,35 @@
+
+state={
+	id=307
+	name="STATE_307"
+	manpower = 2460188
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		4361 4362 4363 4364 4365 4366 4367 4368 4369 
+	}
+	local_supplies=0.0 
+}

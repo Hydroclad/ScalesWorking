@@ -1,0 +1,38 @@
+
+state={
+	id=320
+	name="STATE_320"
+	manpower = 1422998
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = SBA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			4553 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SBA
+	}
+
+	provinces={
+		4549 4550 4551 4552 4553 
+	}
+	local_supplies=0.0 
+}

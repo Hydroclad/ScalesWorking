@@ -1,0 +1,35 @@
+
+state={
+	id=890
+	name="STATE_890"
+	manpower = 2519314
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SHU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SHU
+	}
+
+	provinces={
+		12558 12559 12560 12561 12562 12563 12564 12565 12566 12567 12568 12569 
+	}
+	local_supplies=0.0 
+}

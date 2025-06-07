@@ -1,0 +1,38 @@
+
+state={
+	id=547
+	name="STATE_547"
+	manpower = 3540558
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FLE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			7787 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FLE
+	}
+
+	provinces={
+		7781 7782 7783 7784 7785 7786 7787 7788 7789 7790 7791 7792 7793 7794 7795 
+	}
+	local_supplies=0.0 
+}

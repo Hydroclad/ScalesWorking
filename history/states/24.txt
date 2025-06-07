@@ -1,0 +1,38 @@
+
+state={
+	id=24
+	name="STATE_24"
+	manpower = 3143750
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = GEA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			330 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GEA
+	}
+
+	provinces={
+		323 324 325 326 327 328 329 330 331 332 333 334 335 
+	}
+	local_supplies=0.0 
+}

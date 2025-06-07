@@ -1,0 +1,38 @@
+
+state={
+	id=229
+	name="STATE_229"
+	manpower = 1916984
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=2
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = LAD
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			3299 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = LAD
+	}
+
+	provinces={
+		3292 3293 3294 3295 3296 3297 3298 3299 3300 
+	}
+	local_supplies=0.0 
+}

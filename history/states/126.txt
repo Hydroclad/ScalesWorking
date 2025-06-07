@@ -1,0 +1,35 @@
+
+state={
+	id=126
+	name="STATE_126"
+	manpower = 3062661
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=4
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		1745 1746 1747 1748 1749 1750 1751 1752 1753 1754 1755 1756 1757 
+	}
+	local_supplies=0.0 
+}

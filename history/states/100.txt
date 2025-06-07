@@ -1,0 +1,38 @@
+
+state={
+	id=100
+	name="STATE_100"
+	manpower = 3126578
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=6
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SHE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			1423 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SHE
+	}
+
+	provinces={
+		1414 1415 1416 1417 1418 1419 1420 1421 1422 1423 1424 1425 1426 1427 
+	}
+	local_supplies=0.0 
+}

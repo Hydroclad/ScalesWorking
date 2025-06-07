@@ -1,0 +1,35 @@
+
+state={
+	id=526
+	name="STATE_526"
+	manpower = 920694
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		7561 7562 7563 
+	}
+	local_supplies=0.0 
+}

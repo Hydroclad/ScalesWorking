@@ -1,0 +1,38 @@
+
+state={
+	id=871
+	name="STATE_871"
+	manpower = 3916389
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CLO
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			12226 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CLO
+	}
+
+	provinces={
+		12226 12227 12228 12229 12230 12231 12232 12233 12234 12235 12236 12237 12238 12239 12240 12241 12242 
+	}
+	local_supplies=0.0 
+}

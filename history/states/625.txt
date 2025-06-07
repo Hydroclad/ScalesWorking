@@ -1,0 +1,38 @@
+
+state={
+	id=625
+	name="STATE_625"
+	manpower = 9556642
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=1
+		oil=1
+		rubber=1
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = RRI
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 3
+			dockyard = 2
+			8927 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RRI
+	}
+
+	provinces={
+		8926 8927 8928 8929 8930 8931 8932 8933 8934 8935 8936 8937 8938 8939 8940 8941 8942 8943 8944 8945 8946 8947 8948 8949 8950 8951 8952 8953 8954 8955 8956 8957 8958 8959 8960 8961 8962 8963 8964 
+	}
+	local_supplies=0.0 
+}

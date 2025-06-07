@@ -1,0 +1,38 @@
+
+state={
+	id=755
+	name="STATE_755"
+	manpower = 1851057
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = IFP
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			10587 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IFP
+	}
+
+	provinces={
+		10582 10583 10584 10585 10586 10587 10588 10589 
+	}
+	local_supplies=0.0 
+}

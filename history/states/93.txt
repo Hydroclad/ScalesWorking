@@ -1,0 +1,35 @@
+
+state={
+	id=93
+	name="STATE_93"
+	manpower = 8361030
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=13
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UFL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = UFL
+	}
+
+	provinces={
+		1315 1316 1317 1318 1319 1320 1321 1322 1323 1324 1325 1326 1327 1328 1329 1330 1331 1332 1333 1334 1335 1336 1337 1338 1339 1340 1341 1342 1343 1344 1345 1346 1347 1348 1349 1350 
+	}
+	local_supplies=0.0 
+}

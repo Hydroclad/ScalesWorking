@@ -1,0 +1,38 @@
+
+state={
+	id=949
+	name="STATE_949"
+	manpower = 1262590
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ORT
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			13560 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ORT
+	}
+
+	provinces={
+		13559 13560 13561 13562 13563 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=766
+	name="STATE_766"
+	manpower = 4401762
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ORT
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			10784 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ORT
+	}
+
+	provinces={
+		10770 10771 10772 10773 10774 10775 10776 10777 10778 10779 10780 10781 10782 10783 10784 10785 10786 10787 10788 
+	}
+	local_supplies=0.0 
+}

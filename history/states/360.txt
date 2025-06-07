@@ -1,0 +1,38 @@
+
+state={
+	id=360
+	name="STATE_360"
+	manpower = 2519732
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = EUE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			5031 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = EUE
+	}
+
+	provinces={
+		5028 5029 5030 5031 5032 5033 5034 5035 5036 5037 
+	}
+	local_supplies=0.0 
+}

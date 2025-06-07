@@ -1,0 +1,35 @@
+
+state={
+	id=1026
+	name="STATE_1026"
+	manpower = 1719570
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ONH
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ONH
+	}
+
+	provinces={
+		14771 14772 14773 14774 14775 14776 14777 
+	}
+	local_supplies=0.0 
+}

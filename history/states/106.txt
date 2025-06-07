@@ -1,0 +1,38 @@
+
+state={
+	id=106
+	name="STATE_106"
+	manpower = 3362936
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=1
+		oil=1
+		rubber=0
+		steel=3
+		tungsten=2
+	}
+
+	history={
+		
+		owner = FLE
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			1489 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FLE
+	}
+
+	provinces={
+		1480 1481 1482 1483 1484 1485 1486 1487 1488 1489 1490 1491 1492 1493 1494 1495 
+	}
+	local_supplies=0.0 
+}

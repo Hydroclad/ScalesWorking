@@ -1,0 +1,138 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default = yes
+		
+		
+		CAF={
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		CWA={
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		EUE={
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		SBA={
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		APH={
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		RRI={
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		FGU={
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		UER={
+			minor = yes
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		SHU={
+			minor = yes
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		IRR={
+			minor = yes
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		DRE={
+			minor = yes
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		FLE={
+			minor = yes
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		CLO={
+			minor = yes
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		IUQ={
+			minor = yes
+			history = "generic_GATHERING_STORM_DESC"
+			ideology = 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

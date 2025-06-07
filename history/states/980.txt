@@ -1,0 +1,35 @@
+
+state={
+	id=980
+	name="STATE_980"
+	manpower = 3407625
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = EIF
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = EIF
+	}
+
+	provinces={
+		14057 14058 14059 14060 14061 14062 14063 14064 14065 14066 14067 14068 14069 14070 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=836
+	name="STATE_836"
+	manpower = 3555620
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UER
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			11799 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UER
+	}
+
+	provinces={
+		11799 11800 11801 11802 11803 11804 11805 11806 11807 11808 11809 11810 11811 11812 11813 11814 11815 
+	}
+	local_supplies=0.0 
+}

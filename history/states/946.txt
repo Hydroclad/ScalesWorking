@@ -1,0 +1,38 @@
+
+state={
+	id=946
+	name="STATE_946"
+	manpower = 3601233
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ZIG
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			13523 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ZIG
+	}
+
+	provinces={
+		13510 13511 13512 13513 13514 13515 13516 13517 13518 13519 13520 13521 13522 13523 13524 13525 
+	}
+	local_supplies=0.0 
+}

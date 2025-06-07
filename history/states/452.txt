@@ -1,0 +1,35 @@
+
+state={
+	id=452
+	name="STATE_452"
+	manpower = 2703850
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=3
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		6528 6529 6530 6531 6532 6533 6534 6535 6536 6537 6538 6539 
+	}
+	local_supplies=0.0 
+}

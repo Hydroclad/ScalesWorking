@@ -1,0 +1,35 @@
+
+state={
+	id=990
+	name="STATE_990"
+	manpower = 2351315
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=5
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SBA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SBA
+	}
+
+	provinces={
+		14188 14189 14190 14191 14192 14193 14194 14195 14196 14197 
+	}
+	local_supplies=0.0 
+}

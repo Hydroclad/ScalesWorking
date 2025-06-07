@@ -1,0 +1,35 @@
+
+state={
+	id=652
+	name="STATE_652"
+	manpower = 6949069
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=7
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 2
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		9279 9280 9281 9282 9283 9284 9285 9286 9287 9288 9289 9290 9291 9292 9293 9294 9295 9296 9297 9298 9299 9300 9301 9302 9303 9304 9305 9306 9307 9308 9309 9310 9311 
+	}
+	local_supplies=0.0 
+}

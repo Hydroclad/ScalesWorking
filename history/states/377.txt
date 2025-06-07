@@ -1,0 +1,38 @@
+
+state={
+	id=377
+	name="STATE_377"
+	manpower = 1975931
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IAN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			5273 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IAN
+	}
+
+	provinces={
+		5269 5270 5271 5272 5273 5274 5275 5276 
+	}
+	local_supplies=0.0 
+}

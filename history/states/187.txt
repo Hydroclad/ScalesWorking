@@ -1,0 +1,35 @@
+
+state={
+	id=187
+	name="STATE_187"
+	manpower = 5010445
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=5
+		oil=0
+		rubber=4
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		2721 2722 2723 2724 2725 2726 2727 2728 2729 2730 2731 2732 2733 2734 2735 2736 2737 2738 2739 2740 
+	}
+	local_supplies=0.0 
+}

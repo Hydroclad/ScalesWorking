@@ -1,0 +1,35 @@
+
+state={
+	id=565
+	name="STATE_565"
+	manpower = 3658225
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = EIF
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = EIF
+	}
+
+	provinces={
+		8040 8041 8042 8043 8044 8045 8046 8047 8048 8049 8050 8051 8052 8053 8054 
+	}
+	local_supplies=0.0 
+}

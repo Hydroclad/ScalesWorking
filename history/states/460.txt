@@ -1,0 +1,38 @@
+
+state={
+	id=460
+	name="STATE_460"
+	manpower = 5736475
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = OUG
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 1
+			6651 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OUG
+	}
+
+	provinces={
+		6635 6636 6637 6638 6639 6640 6641 6642 6643 6644 6645 6646 6647 6648 6649 6650 6651 6652 6653 6654 6655 6656 6657 6658 6659 6660 
+	}
+	local_supplies=0.0 
+}

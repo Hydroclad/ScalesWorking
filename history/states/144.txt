@@ -1,0 +1,38 @@
+
+state={
+	id=144
+	name="STATE_144"
+	manpower = 6837894
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=2
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IRR
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			2066 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IRR
+	}
+
+	provinces={
+		2059 2060 2061 2062 2063 2064 2065 2066 2067 2068 2069 2070 2071 2072 2073 2074 2075 2076 2077 2078 2079 2080 2081 2082 2083 2084 2085 2086 2087 2088 
+	}
+	local_supplies=0.0 
+}

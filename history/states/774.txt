@@ -1,0 +1,38 @@
+
+state={
+	id=774
+	name="STATE_774"
+	manpower = 3126052
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=10
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			10865 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		10862 10863 10864 10865 10866 10867 10868 10869 10870 10871 10872 10873 10874 10875 
+	}
+	local_supplies=0.0 
+}

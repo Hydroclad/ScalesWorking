@@ -1,0 +1,38 @@
+
+state={
+	id=90
+	name="STATE_90"
+	manpower = 2301134
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = XOS
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			1283 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = XOS
+	}
+
+	provinces={
+		1279 1280 1281 1282 1283 1284 1285 1286 1287 1288 1289 
+	}
+	local_supplies=0.0 
+}

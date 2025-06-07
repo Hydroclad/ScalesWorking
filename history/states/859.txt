@@ -1,0 +1,38 @@
+
+state={
+	id=859
+	name="STATE_859"
+	manpower = 2865584
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = XOS
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			12089 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = XOS
+	}
+
+	provinces={
+		12085 12086 12087 12088 12089 12090 12091 12092 12093 12094 12095 12096 12097 12098 
+	}
+	local_supplies=0.0 
+}

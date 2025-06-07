@@ -1,0 +1,35 @@
+
+state={
+	id=893
+	name="STATE_893"
+	manpower = 5915085
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=1
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		12594 12595 12596 12597 12598 12599 12600 12601 12602 12603 12604 12605 12606 12607 12608 12609 12610 12611 12612 12613 12614 12615 12616 12617 12618 12619 12620 12621 
+	}
+	local_supplies=0.0 
+}

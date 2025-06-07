@@ -1,0 +1,35 @@
+
+state={
+	id=266
+	name="STATE_266"
+	manpower = 6269942
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=19
+		steel=4
+		tungsten=2
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		3809 3810 3811 3812 3813 3814 3815 3816 3817 3818 3819 3820 3821 3822 3823 3824 3825 3826 3827 3828 3829 3830 3831 3832 3833 3834 3835 3836 3837 3838 
+	}
+	local_supplies=0.0 
+}

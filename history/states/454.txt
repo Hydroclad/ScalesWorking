@@ -1,0 +1,35 @@
+
+state={
+	id=454
+	name="STATE_454"
+	manpower = 4332761
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		6583 6584 6585 6586 6587 6588 6589 6590 6591 6592 6593 6594 6595 6596 6597 6598 6599 6600 
+	}
+	local_supplies=0.0 
+}

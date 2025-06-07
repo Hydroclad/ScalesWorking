@@ -1,0 +1,35 @@
+
+state={
+	id=910
+	name="STATE_910"
+	manpower = 2376883
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IAN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = IAN
+	}
+
+	provinces={
+		12873 12874 12875 12876 12877 12878 12879 12880 12881 12882 12883 
+	}
+	local_supplies=0.0 
+}

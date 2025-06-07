@@ -1,0 +1,35 @@
+
+state={
+	id=877
+	name="STATE_877"
+	manpower = 4437932
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=2
+	}
+
+	history={
+		
+		owner = EUE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = EUE
+	}
+
+	provinces={
+		12312 12313 12314 12315 12316 12317 12318 12319 12320 12321 12322 12323 12324 12325 12326 12327 12328 12329 12330 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=160
+	name="STATE_160"
+	manpower = 4987767
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=5
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = BLI
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = BLI
+	}
+
+	provinces={
+		2342 2343 2344 2345 2346 2347 2348 2349 2350 2351 2352 2353 2354 2355 2356 2357 2358 2359 2360 2361 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=158
+	name="STATE_158"
+	manpower = 1841773
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = PHE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			2313 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PHE
+	}
+
+	provinces={
+		2310 2311 2312 2313 2314 2315 2316 
+	}
+	local_supplies=0.0 
+}

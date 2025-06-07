@@ -1,0 +1,35 @@
+
+state={
+	id=602
+	name="STATE_602"
+	manpower = 1924031
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = RRI
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RRI
+	}
+
+	provinces={
+		8614 8615 8616 8617 8618 8619 8620 8621 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=731
+	name="STATE_731"
+	manpower = 3120551
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = IFP
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			10239 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IFP
+	}
+
+	provinces={
+		10238 10239 10240 10241 10242 10243 10244 10245 10246 10247 10248 10249 10250 
+	}
+	local_supplies=0.0 
+}

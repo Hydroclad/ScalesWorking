@@ -1,0 +1,38 @@
+
+state={
+	id=65
+	name="STATE_65"
+	manpower = 5906432
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=13
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = UFL
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 1
+			962 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UFL
+	}
+
+	provinces={
+		949 950 951 952 953 954 955 956 957 958 959 960 961 962 963 964 965 966 967 968 969 970 971 972 973 974 975 
+	}
+	local_supplies=0.0 
+}

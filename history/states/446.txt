@@ -1,0 +1,35 @@
+
+state={
+	id=446
+	name="STATE_446"
+	manpower = 788178
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		6466 6467 6468 
+	}
+	local_supplies=0.0 
+}

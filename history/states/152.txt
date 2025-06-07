@@ -1,0 +1,38 @@
+
+state={
+	id=152
+	name="STATE_152"
+	manpower = 2173535
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=4
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = BLI
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			2155 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = BLI
+	}
+
+	provinces={
+		2147 2148 2149 2150 2151 2152 2153 2154 2155 2156 
+	}
+	local_supplies=0.0 
+}

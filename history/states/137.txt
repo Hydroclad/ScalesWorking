@@ -1,0 +1,35 @@
+
+state={
+	id=137
+	name="STATE_137"
+	manpower = 2917710
+	
+	state_category = city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		1934 1935 1936 1937 1938 1939 1940 1941 1942 1943 1944 
+	}
+	local_supplies=0.0 
+}

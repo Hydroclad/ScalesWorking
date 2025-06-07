@@ -1,0 +1,38 @@
+
+state={
+	id=234
+	name="STATE_234"
+	manpower = 3560874
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=2
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = PHE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			3362 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PHE
+	}
+
+	provinces={
+		3353 3354 3355 3356 3357 3358 3359 3360 3361 3362 3363 3364 3365 3366 
+	}
+	local_supplies=0.0 
+}

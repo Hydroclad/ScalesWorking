@@ -1,0 +1,38 @@
+
+state={
+	id=168
+	name="STATE_168"
+	manpower = 4868948
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=3
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = SHU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			2465 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SHU
+	}
+
+	provinces={
+		2452 2453 2454 2455 2456 2457 2458 2459 2460 2461 2462 2463 2464 2465 2466 2467 2468 2469 2470 2471 2472 2473 
+	}
+	local_supplies=0.0 
+}

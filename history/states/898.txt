@@ -1,0 +1,38 @@
+
+state={
+	id=898
+	name="STATE_898"
+	manpower = 7764660
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=5
+		steel=1
+		tungsten=2
+	}
+
+	history={
+		
+		owner = IUQ
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			12763 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IUQ
+	}
+
+	provinces={
+		12733 12734 12735 12736 12737 12738 12739 12740 12741 12742 12743 12744 12745 12746 12747 12748 12749 12750 12751 12752 12753 12754 12755 12756 12757 12758 12759 12760 12761 12762 12763 12764 12765 
+	}
+	local_supplies=0.0 
+}

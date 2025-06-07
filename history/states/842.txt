@@ -1,0 +1,38 @@
+
+state={
+	id=842
+	name="STATE_842"
+	manpower = 8022539
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = IAT
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 2
+			
+			11897 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IAT
+	}
+
+	provinces={
+		11878 11879 11880 11881 11882 11883 11884 11885 11886 11887 11888 11889 11890 11891 11892 11893 11894 11895 11896 11897 11898 11899 11900 11901 11902 11903 11904 11905 11906 11907 11908 11909 11910 11911 11912 
+	}
+	local_supplies=0.0 
+}

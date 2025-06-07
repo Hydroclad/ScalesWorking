@@ -1,0 +1,35 @@
+
+state={
+	id=511
+	name="STATE_511"
+	manpower = 2066858
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = QOE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = QOE
+	}
+
+	provinces={
+		7277 7278 7279 7280 7281 7282 7283 7284 
+	}
+	local_supplies=0.0 
+}

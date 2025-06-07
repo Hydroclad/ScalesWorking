@@ -1,0 +1,38 @@
+
+state={
+	id=433
+	name="STATE_433"
+	manpower = 235297
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = ONG
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			6172 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ONG
+	}
+
+	provinces={
+		6172 
+	}
+	local_supplies=0.0 
+}

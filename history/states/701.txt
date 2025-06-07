@@ -1,0 +1,38 @@
+
+state={
+	id=701
+	name="STATE_701"
+	manpower = 2871881
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = IRR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			9930 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IRR
+	}
+
+	provinces={
+		9929 9930 9931 9932 9933 9934 9935 9936 9937 9938 9939 9940 9941 
+	}
+	local_supplies=0.0 
+}

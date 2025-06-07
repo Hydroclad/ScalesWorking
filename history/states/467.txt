@@ -1,0 +1,38 @@
+
+state={
+	id=467
+	name="STATE_467"
+	manpower = 2737468
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = RRI
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			6722 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RRI
+	}
+
+	provinces={
+		6712 6713 6714 6715 6716 6717 6718 6719 6720 6721 6722 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=1005
+	name="STATE_1005"
+	manpower = 3380896
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=1
+		oil=1
+		rubber=8
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = HUO
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			14416 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HUO
+	}
+
+	provinces={
+		14407 14408 14409 14410 14411 14412 14413 14414 14415 14416 14417 14418 14419 14420 14421 
+	}
+	local_supplies=0.0 
+}

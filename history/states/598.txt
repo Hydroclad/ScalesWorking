@@ -1,0 +1,38 @@
+
+state={
+	id=598
+	name="STATE_598"
+	manpower = 3766616
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=1
+		tungsten=3
+	}
+
+	history={
+		
+		owner = PPI
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			8531 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PPI
+	}
+
+	provinces={
+		8522 8523 8524 8525 8526 8527 8528 8529 8530 8531 8532 8533 8534 8535 8536 
+	}
+	local_supplies=0.0 
+}

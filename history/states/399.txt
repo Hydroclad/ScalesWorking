@@ -1,0 +1,38 @@
+
+state={
+	id=399
+	name="STATE_399"
+	manpower = 419509
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IFP
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			5656 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IFP
+	}
+
+	provinces={
+		5656 
+	}
+	local_supplies=0.0 
+}

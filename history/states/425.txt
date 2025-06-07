@@ -1,0 +1,38 @@
+
+state={
+	id=425
+	name="STATE_425"
+	manpower = 1618694
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=6
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			6049 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		6047 6048 6049 6050 6051 6052 6053 
+	}
+	local_supplies=0.0 
+}

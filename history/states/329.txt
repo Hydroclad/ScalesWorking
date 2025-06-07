@@ -1,0 +1,38 @@
+
+state={
+	id=329
+	name="STATE_329"
+	manpower = 82769
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = QMP
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			4712 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = QMP
+	}
+
+	provinces={
+		4712 
+	}
+	local_supplies=0.0 
+}

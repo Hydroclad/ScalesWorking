@@ -1,0 +1,35 @@
+
+state={
+	id=334
+	name="STATE_334"
+	manpower = 1184658
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		4792 4793 4794 4795 4796 
+	}
+	local_supplies=0.0 
+}

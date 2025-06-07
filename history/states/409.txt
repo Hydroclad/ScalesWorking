@@ -1,0 +1,35 @@
+
+state={
+	id=409
+	name="STATE_409"
+	manpower = 2297130
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		5728 5729 5730 5731 5732 5733 5734 5735 5736 
+	}
+	local_supplies=0.0 
+}

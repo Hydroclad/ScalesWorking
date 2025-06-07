@@ -1,0 +1,35 @@
+
+state={
+	id=960
+	name="STATE_960"
+	manpower = 2478191
+	
+	state_category = town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		13666 13667 13668 13669 13670 13671 13672 13673 13674 13675 13676 
+	}
+	local_supplies=0.0 
+}

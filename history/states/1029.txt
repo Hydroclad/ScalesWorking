@@ -1,0 +1,35 @@
+
+state={
+	id=1029
+	name="STATE_1029"
+	manpower = 3767399
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IAT
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = IAT
+	}
+
+	provinces={
+		14805 14806 14807 14808 14809 14810 14811 14812 14813 14814 14815 14816 14817 14818 14819 14820 14821 
+	}
+	local_supplies=0.0 
+}

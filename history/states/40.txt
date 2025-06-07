@@ -1,0 +1,35 @@
+
+state={
+	id=40
+	name="STATE_40"
+	manpower = 3695616
+	
+	state_category = large_town
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=2
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 
+	}
+	local_supplies=0.0 
+}

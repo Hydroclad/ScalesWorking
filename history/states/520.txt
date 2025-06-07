@@ -1,0 +1,35 @@
+
+state={
+	id=520
+	name="STATE_520"
+	manpower = 3236122
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = SPU
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = SPU
+	}
+
+	provinces={
+		7385 7386 7387 7388 7389 7390 7391 7392 7393 7394 7395 7396 7397 7398 7399 7400 
+	}
+	local_supplies=0.0 
+}

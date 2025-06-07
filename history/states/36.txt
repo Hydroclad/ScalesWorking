@@ -1,0 +1,38 @@
+
+state={
+	id=36
+	name="STATE_36"
+	manpower = 3304959
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ODH
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			510 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ODH
+	}
+
+	provinces={
+		507 508 509 510 511 512 513 514 515 516 517 518 519 
+	}
+	local_supplies=0.0 
+}

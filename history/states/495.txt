@@ -1,0 +1,35 @@
+
+state={
+	id=495
+	name="STATE_495"
+	manpower = 537244
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		7101 7102 7103 
+	}
+	local_supplies=0.0 
+}

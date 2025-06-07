@@ -1,0 +1,35 @@
+
+state={
+	id=993
+	name="STATE_993"
+	manpower = 7243764
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=3
+		rubber=0
+		steel=3
+		tungsten=2
+	}
+
+	history={
+		
+		owner = LHO
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = LHO
+	}
+
+	provinces={
+		14205 14206 14207 14208 14209 14210 14211 14212 14213 14214 14215 14216 14217 14218 14219 14220 14221 14222 14223 14224 14225 14226 14227 14228 14229 14230 14231 14232 14233 14234 14235 14236 14237 
+	}
+	local_supplies=0.0 
+}

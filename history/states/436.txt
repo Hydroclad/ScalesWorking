@@ -1,0 +1,35 @@
+
+state={
+	id=436
+	name="STATE_436"
+	manpower = 3001764
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=3
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAF
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAF
+	}
+
+	provinces={
+		6185 6186 6187 6188 6189 6190 6191 6192 6193 6194 6195 6196 6197 
+	}
+	local_supplies=0.0 
+}

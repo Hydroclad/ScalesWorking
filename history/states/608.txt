@@ -1,0 +1,35 @@
+
+state={
+	id=608
+	name="STATE_608"
+	manpower = 5448432
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = SPE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = SPE
+	}
+
+	provinces={
+		8712 8713 8714 8715 8716 8717 8718 8719 8720 8721 8722 8723 8724 8725 8726 8727 8728 8729 8730 8731 8732 8733 8734 8735 
+	}
+	local_supplies=0.0 
+}

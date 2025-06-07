@@ -1,0 +1,35 @@
+
+state={
+	id=256
+	name="STATE_256"
+	manpower = 3074908
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = KWA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KWA
+	}
+
+	provinces={
+		3703 3704 3705 3706 3707 3708 3709 3710 3711 3712 3713 3714 
+	}
+	local_supplies=0.0 
+}

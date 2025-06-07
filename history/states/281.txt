@@ -1,0 +1,38 @@
+
+state={
+	id=281
+	name="STATE_281"
+	manpower = 6434011
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = AUM
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			4037 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = AUM
+	}
+
+	provinces={
+		4027 4028 4029 4030 4031 4032 4033 4034 4035 4036 4037 4038 4039 4040 4041 4042 4043 4044 4045 4046 4047 4048 4049 4050 4051 4052 4053 4054 
+	}
+	local_supplies=0.0 
+}

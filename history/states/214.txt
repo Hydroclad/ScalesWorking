@@ -1,0 +1,35 @@
+
+state={
+	id=214
+	name="STATE_214"
+	manpower = 2661637
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IOC
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = IOC
+	}
+
+	provinces={
+		3074 3075 3076 3077 3078 3079 3080 3081 3082 3083 3084 3085 
+	}
+	local_supplies=0.0 
+}

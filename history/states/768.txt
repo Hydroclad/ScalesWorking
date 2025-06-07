@@ -1,0 +1,38 @@
+
+state={
+	id=768
+	name="STATE_768"
+	manpower = 225718
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = OGR
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			10801 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OGR
+	}
+
+	provinces={
+		10801 
+	}
+	local_supplies=0.0 
+}

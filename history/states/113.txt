@@ -1,0 +1,35 @@
+
+state={
+	id=113
+	name="STATE_113"
+	manpower = 1956169
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=6
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		1585 1586 1587 1588 1589 1590 1591 1592 1593 
+	}
+	local_supplies=0.0 
+}

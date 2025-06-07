@@ -1,0 +1,35 @@
+
+state={
+	id=301
+	name="STATE_301"
+	manpower = 2643353
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UOK
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = UOK
+	}
+
+	provinces={
+		4294 4295 4296 4297 4298 4299 4300 4301 4302 4303 4304 4305 4306 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=1000
+	name="STATE_1000"
+	manpower = 6057535
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = MHA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = MHA
+	}
+
+	provinces={
+		14315 14316 14317 14318 14319 14320 14321 14322 14323 14324 14325 14326 14327 14328 14329 14330 14331 14332 14333 14334 14335 14336 14337 14338 14339 14340 14341 14342 
+	}
+	local_supplies=0.0 
+}

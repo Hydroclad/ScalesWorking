@@ -1,0 +1,38 @@
+
+state={
+	id=616
+	name="STATE_616"
+	manpower = 1799612
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ONG
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			8811 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ONG
+	}
+
+	provinces={
+		8806 8807 8808 8809 8810 8811 8812 
+	}
+	local_supplies=0.0 
+}

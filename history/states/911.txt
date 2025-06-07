@@ -1,0 +1,38 @@
+
+state={
+	id=911
+	name="STATE_911"
+	manpower = 4986822
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IAT
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			12895 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IAT
+	}
+
+	provinces={
+		12884 12885 12886 12887 12888 12889 12890 12891 12892 12893 12894 12895 12896 12897 12898 12899 12900 12901 12902 12903 12904 12905 
+	}
+	local_supplies=0.0 
+}

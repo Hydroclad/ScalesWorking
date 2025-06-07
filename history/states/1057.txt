@@ -1,0 +1,35 @@
+
+state={
+	id=1057
+	name="STATE_1057"
+	manpower = 1891594
+	
+	state_category = pastoral
+	resources={
+		aluminium=3
+		chromium=7
+		oil=2
+		rubber=0
+		steel=6
+		tungsten=3
+	}
+
+	history={
+		
+		owner = CWA
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CWA
+	}
+
+	provinces={
+		15267 15268 15269 15270 15271 15272 15273 15274 15275 15276 15277 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=769
+	name="STATE_769"
+	manpower = 2206754
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = LHO
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = LHO
+	}
+
+	provinces={
+		10802 10803 10804 10805 10806 10807 10808 10809 10810 
+	}
+	local_supplies=0.0 
+}

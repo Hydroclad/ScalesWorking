@@ -1,0 +1,38 @@
+
+state={
+	id=629
+	name="STATE_629"
+	manpower = 448046
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = LAD
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			9010 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = LAD
+	}
+
+	provinces={
+		9009 9010 
+	}
+	local_supplies=0.0 
+}

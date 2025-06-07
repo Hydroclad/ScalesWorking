@@ -1,0 +1,38 @@
+
+state={
+	id=170
+	name="STATE_170"
+	manpower = 5192071
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=5
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = HUO
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			2490 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HUO
+	}
+
+	provinces={
+		2487 2488 2489 2490 2491 2492 2493 2494 2495 2496 2497 2498 2499 2500 2501 2502 2503 2504 2505 2506 2507 
+	}
+	local_supplies=0.0 
+}

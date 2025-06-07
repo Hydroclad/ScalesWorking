@@ -1,0 +1,35 @@
+
+state={
+	id=909
+	name="STATE_909"
+	manpower = 3391481
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ONH
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ONH
+	}
+
+	provinces={
+		12860 12861 12862 12863 12864 12865 12866 12867 12868 12869 12870 12871 12872 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=624
+	name="STATE_624"
+	manpower = 4526772
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = ESP
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			8919 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ESP
+	}
+
+	provinces={
+		8904 8905 8906 8907 8908 8909 8910 8911 8912 8913 8914 8915 8916 8917 8918 8919 8920 8921 8922 8923 8924 8925 
+	}
+	local_supplies=0.0 
+}

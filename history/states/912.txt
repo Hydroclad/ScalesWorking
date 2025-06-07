@@ -1,0 +1,35 @@
+
+state={
+	id=912
+	name="STATE_912"
+	manpower = 6640218
+	
+	state_category = large_city
+	resources={
+		aluminium=2
+		chromium=7
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = ZIG
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ZIG
+	}
+
+	provinces={
+		12906 12907 12908 12909 12910 12911 12912 12913 12914 12915 12916 12917 12918 12919 12920 12921 12922 12923 12924 12925 12926 12927 12928 12929 12930 12931 12932 12933 12934 12935 12936 12937 
+	}
+	local_supplies=0.0 
+}

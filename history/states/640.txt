@@ -1,0 +1,35 @@
+
+state={
+	id=640
+	name="STATE_640"
+	manpower = 2239481
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FIU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FIU
+	}
+
+	provinces={
+		9137 9138 9139 9140 9141 9142 9143 9144 9145 
+	}
+	local_supplies=0.0 
+}

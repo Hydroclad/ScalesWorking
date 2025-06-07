@@ -1,0 +1,38 @@
+
+state={
+	id=358
+	name="STATE_358"
+	manpower = 2410497
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = RRI
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			5000 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RRI
+	}
+
+	provinces={
+		4998 4999 5000 5001 5002 5003 5004 5005 5006 5007 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=1014
+	name="STATE_1014"
+	manpower = 3196921
+	
+	state_category = large_town
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = UER
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			14541 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UER
+	}
+
+	provinces={
+		14531 14532 14533 14534 14535 14536 14537 14538 14539 14540 14541 14542 14543 14544 
+	}
+	local_supplies=0.0 
+}

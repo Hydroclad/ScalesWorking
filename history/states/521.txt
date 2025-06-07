@@ -1,0 +1,35 @@
+
+state={
+	id=521
+	name="STATE_521"
+	manpower = 7407593
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=2
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = CLO
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = CLO
+	}
+
+	provinces={
+		7483 7484 7485 7486 7487 7488 7489 7490 7491 7492 7493 7494 7495 7496 7497 7498 7499 7500 7501 7502 7503 7504 7505 7506 7507 7508 7509 7510 7511 7512 7513 
+	}
+	local_supplies=0.0 
+}

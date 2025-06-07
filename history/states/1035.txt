@@ -1,0 +1,38 @@
+
+state={
+	id=1035
+	name="STATE_1035"
+	manpower = 1932834
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IAN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			14909 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IAN
+	}
+
+	provinces={
+		14902 14903 14904 14905 14906 14907 14908 14909 
+	}
+	local_supplies=0.0 
+}

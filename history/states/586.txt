@@ -1,0 +1,38 @@
+
+state={
+	id=586
+	name="STATE_586"
+	manpower = 4924321
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = OHA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			8351 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OHA
+	}
+
+	provinces={
+		8347 8348 8349 8350 8351 8352 8353 8354 8355 8356 8357 8358 8359 8360 8361 8362 8363 8364 8365 8366 8367 8368 
+	}
+	local_supplies=0.0 
+}

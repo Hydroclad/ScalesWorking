@@ -1,0 +1,38 @@
+
+state={
+	id=936
+	name="STATE_936"
+	manpower = 103106
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = HWU
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			13386 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HWU
+	}
+
+	provinces={
+		13386 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=541
+	name="STATE_541"
+	manpower = 4562622
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=3
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = HIO
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			7722 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = HIO
+	}
+
+	provinces={
+		7706 7707 7708 7709 7710 7711 7712 7713 7714 7715 7716 7717 7718 7719 7720 7721 7722 7723 7724 
+	}
+	local_supplies=0.0 
+}

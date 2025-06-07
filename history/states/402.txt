@@ -1,0 +1,35 @@
+
+state={
+	id=402
+	name="STATE_402"
+	manpower = 2249679
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = CAA
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = CAA
+	}
+
+	provinces={
+		5681 5682 5683 5684 5685 5686 5687 5688 5689 
+	}
+	local_supplies=0.0 
+}

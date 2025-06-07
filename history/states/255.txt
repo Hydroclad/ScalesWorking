@@ -1,0 +1,38 @@
+
+state={
+	id=255
+	name="STATE_255"
+	manpower = 3978983
+	
+	state_category = city
+	resources={
+		aluminium=2
+		chromium=3
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SHU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			3691 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SHU
+	}
+
+	provinces={
+		3686 3687 3688 3689 3690 3691 3692 3693 3694 3695 3696 3697 3698 3699 3700 3701 3702 
+	}
+	local_supplies=0.0 
+}

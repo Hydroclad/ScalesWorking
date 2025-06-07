@@ -1,0 +1,35 @@
+
+state={
+	id=919
+	name="STATE_919"
+	manpower = 8803233
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=3
+		oil=0
+		rubber=7
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SBA
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = SBA
+	}
+
+	provinces={
+		13041 13042 13043 13044 13045 13046 13047 13048 13049 13050 13051 13052 13053 13054 13055 13056 13057 13058 13059 13060 13061 13062 13063 13064 13065 13066 13067 13068 13069 13070 13071 13072 13073 13074 13075 13076 13077 
+	}
+	local_supplies=0.0 
+}

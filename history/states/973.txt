@@ -1,0 +1,38 @@
+
+state={
+	id=973
+	name="STATE_973"
+	manpower = 760381
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FLE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			13963 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FLE
+	}
+
+	provinces={
+		13963 13964 13965 
+	}
+	local_supplies=0.0 
+}

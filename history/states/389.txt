@@ -1,0 +1,35 @@
+
+state={
+	id=389
+	name="STATE_389"
+	manpower = 5957319
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=15
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		owner = DRE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = DRE
+	}
+
+	provinces={
+		5500 5501 5502 5503 5504 5505 5506 5507 5508 5509 5510 5511 5512 5513 5514 5515 5516 5517 5518 5519 5520 5521 5522 5523 5524 5525 
+	}
+	local_supplies=0.0 
+}

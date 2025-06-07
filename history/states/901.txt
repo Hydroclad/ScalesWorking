@@ -1,0 +1,38 @@
+
+state={
+	id=901
+	name="STATE_901"
+	manpower = 5055349
+	
+	state_category = city
+	resources={
+		aluminium=2
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		owner = SPU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			12809 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SPU
+	}
+
+	provinces={
+		12792 12793 12794 12795 12796 12797 12798 12799 12800 12801 12802 12803 12804 12805 12806 12807 12808 12809 12810 12811 12812 12813 12814 
+	}
+	local_supplies=0.0 
+}

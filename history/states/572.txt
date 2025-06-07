@@ -1,0 +1,38 @@
+
+state={
+	id=572
+	name="STATE_572"
+	manpower = 10500174
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=2
+		oil=4
+		rubber=0
+		steel=4
+		tungsten=2
+	}
+
+	history={
+		
+		owner = FLE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 2
+			8125 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FLE
+	}
+
+	provinces={
+		8113 8114 8115 8116 8117 8118 8119 8120 8121 8122 8123 8124 8125 8126 8127 8128 8129 8130 8131 8132 8133 8134 8135 8136 8137 8138 8139 8140 8141 8142 8143 8144 8145 8146 8147 8148 8149 8150 8151 8152 8153 8154 8155 8156 8157 8158 8159 8160 8161 8162 
+	}
+	local_supplies=0.0 
+}

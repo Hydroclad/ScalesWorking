@@ -1,0 +1,35 @@
+
+state={
+	id=792
+	name="STATE_792"
+	manpower = 2293176
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = EUE
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = EUE
+	}
+
+	provinces={
+		11122 11123 11124 11125 11126 11127 11128 11129 11130 11131 11132 
+	}
+	local_supplies=0.0 
+}

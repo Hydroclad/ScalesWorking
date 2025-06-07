@@ -1,0 +1,38 @@
+
+state={
+	id=192
+	name="STATE_192"
+	manpower = 769340
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = SOI
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			2802 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = SOI
+	}
+
+	provinces={
+		2801 2802 2803 
+	}
+	local_supplies=0.0 
+}

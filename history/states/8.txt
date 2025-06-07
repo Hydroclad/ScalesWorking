@@ -1,0 +1,38 @@
+
+state={
+	id=8
+	name="STATE_8"
+	manpower = 5330049
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = QOE
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			dockyard = 1
+			86 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = QOE
+	}
+
+	provinces={
+		69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 
+	}
+	local_supplies=0.0 
+}

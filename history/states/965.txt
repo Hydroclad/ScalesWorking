@@ -1,0 +1,35 @@
+
+state={
+	id=965
+	name="STATE_965"
+	manpower = 3198205
+	
+	state_category = large_town
+	resources={
+		aluminium=0
+		chromium=1
+		oil=0
+		rubber=6
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IEB
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = IEB
+	}
+
+	provinces={
+		13749 13750 13751 13752 13753 13754 13755 13756 13757 13758 13759 13760 13761 13762 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=933
+	name="STATE_933"
+	manpower = 4369205
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=0
+		steel=3
+		tungsten=0
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		13358 13359 13360 13361 13362 13363 13364 13365 13366 13367 13368 13369 13370 13371 13372 13373 13374 13375 13376 13377 13378 13379 
+	}
+	local_supplies=0.0 
+}

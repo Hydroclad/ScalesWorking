@@ -1,0 +1,38 @@
+
+state={
+	id=60
+	name="STATE_60"
+	manpower = 2818926
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=11
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FGU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			855 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FGU
+	}
+
+	provinces={
+		846 847 848 849 850 851 852 853 854 855 856 857 858 
+	}
+	local_supplies=0.0 
+}

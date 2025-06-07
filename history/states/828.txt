@@ -1,0 +1,35 @@
+
+state={
+	id=828
+	name="STATE_828"
+	manpower = 796314
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = SPU
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = SPU
+	}
+
+	provinces={
+		11720 11721 11722 11723 
+	}
+	local_supplies=0.0 
+}

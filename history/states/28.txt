@@ -1,0 +1,38 @@
+
+state={
+	id=28
+	name="STATE_28"
+	manpower = 4156
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = PLO
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			411 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = PLO
+	}
+
+	provinces={
+		411 
+	}
+	local_supplies=0.0 
+}

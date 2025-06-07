@@ -1,0 +1,35 @@
+
+state={
+	id=236
+	name="STATE_236"
+	manpower = 1641468
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=4
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = DRE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = DRE
+	}
+
+	provinces={
+		3388 3389 3390 3391 3392 3393 3394 
+	}
+	local_supplies=0.0 
+}

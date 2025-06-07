@@ -1,0 +1,35 @@
+
+state={
+	id=261
+	name="STATE_261"
+	manpower = 1760810
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = FIU
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FIU
+	}
+
+	provinces={
+		3762 3763 3764 3765 3766 3767 3768 3769 
+	}
+	local_supplies=0.0 
+}

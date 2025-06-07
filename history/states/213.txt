@@ -1,0 +1,35 @@
+
+state={
+	id=213
+	name="STATE_213"
+	manpower = 1847420
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=1
+	}
+
+	history={
+		
+		owner = APH
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = APH
+	}
+
+	provinces={
+		3065 3066 3067 3068 3069 3070 3071 3072 3073 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=671
+	name="STATE_671"
+	manpower = 2386630
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IOM
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = IOM
+	}
+
+	provinces={
+		9501 9502 9503 9504 9505 9506 9507 9508 9509 9510 9511 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=456
+	name="STATE_456"
+	manpower = 1049009
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = QSR
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			6607 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = QSR
+	}
+
+	provinces={
+		6607 6608 6609 6610 6611 
+	}
+	local_supplies=0.0 
+}

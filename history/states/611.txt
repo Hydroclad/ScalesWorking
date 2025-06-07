@@ -1,0 +1,35 @@
+
+state={
+	id=611
+	name="STATE_611"
+	manpower = 3402119
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = EUE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = EUE
+	}
+
+	provinces={
+		8761 8762 8763 8764 8765 8766 8767 8768 8769 8770 8771 8772 8773 8774 8775 
+	}
+	local_supplies=0.0 
+}

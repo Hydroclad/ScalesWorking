@@ -1,0 +1,38 @@
+
+state={
+	id=295
+	name="STATE_295"
+	manpower = 3029133
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = IUQ
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			4207 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = IUQ
+	}
+
+	provinces={
+		4200 4201 4202 4203 4204 4205 4206 4207 4208 4209 4210 4211 
+	}
+	local_supplies=0.0 
+}

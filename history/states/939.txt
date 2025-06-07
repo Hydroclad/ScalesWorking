@@ -1,0 +1,38 @@
+
+state={
+	id=939
+	name="STATE_939"
+	manpower = 4755570
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=1
+		oil=1
+		rubber=12
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = EUE
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			13432 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = EUE
+	}
+
+	provinces={
+		13432 13433 13434 13435 13436 13437 13438 13439 13440 13441 13442 13443 13444 13445 13446 13447 13448 13449 13450 13451 13452 13453 
+	}
+	local_supplies=0.0 
+}

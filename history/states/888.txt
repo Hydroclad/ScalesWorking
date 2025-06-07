@@ -1,0 +1,38 @@
+
+state={
+	id=888
+	name="STATE_888"
+	manpower = 1603827
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		owner = T00
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			12546 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = T00
+	}
+
+	provinces={
+		12544 12545 12546 12547 12548 12549 
+	}
+	local_supplies=0.0 
+}

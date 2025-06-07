@@ -1,0 +1,38 @@
+
+state={
+	id=962
+	name="STATE_962"
+	manpower = 7141492
+	
+	state_category = large_city
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		owner = QSR
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			13709 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = QSR
+	}
+
+	provinces={
+		13678 13679 13680 13681 13682 13683 13684 13685 13686 13687 13688 13689 13690 13691 13692 13693 13694 13695 13696 13697 13698 13699 13700 13701 13702 13703 13704 13705 13706 13707 13708 13709 13710 13711 
+	}
+	local_supplies=0.0 
+}

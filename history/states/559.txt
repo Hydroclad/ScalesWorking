@@ -1,0 +1,35 @@
+
+state={
+	id=559
+	name="STATE_559"
+	manpower = 2979853
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		owner = ONH
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ONH
+	}
+
+	provinces={
+		7945 7946 7947 7948 7949 7950 7951 7952 7953 7954 7955 7956 
+	}
+	local_supplies=0.0 
+}
